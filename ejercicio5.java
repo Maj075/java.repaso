@@ -17,9 +17,9 @@ public class ejercicio5 {
      */
     public static void main(String[] args) {
         int x;
-        x = 1;
+        x = 5;
         
-        while(x <= 5);
+        while(x <= 10);
         System.out.println(x);
         x = x + 1;
     }
